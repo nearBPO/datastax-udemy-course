@@ -13,7 +13,7 @@ Este es el repositorio donde encontrarás la base para iniciar el curso en [Udem
 
 Para iniciar tu proyecto en Gitpod, da clic aquí.
 
-<a href="https://gitpod.io/#https://https://github.com/nearBPO/datastax-udemy-course"><img src="META-INF/open_in_gitpod.svg?raw=true" /></a>
+<a href="https://gitpod.io/#https://github.com/nearBPO/datastax-udemy-course"><img src="META-INF/open_in_gitpod.svg?raw=true" /></a>
 
 ### Problemas durante el desarrollo del curso?
 
