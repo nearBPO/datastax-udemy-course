@@ -1,1 +1,1 @@
-sensor=value.sensor, timestamp=value.timestamp, temp=value.temp, smoke=value.smoke, humidity=value.humidity, co=value.co, lpg=value.lpg, motion=value.motion, light=value.light
+sensor=value.sensor, timestamp=value.timestamp, co=value.co, humidity=value.humidity, light=value.light, lpg=value.lpg, motion=value.motion, smoke=value.smoke, temp=value.temp
