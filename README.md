@@ -1,4 +1,4 @@
-Versão em [Português](README_PT-BR.md) :brazil:
+Versão em [Português](Readme_PT-BR.md) :brazil:
 
 # DataStax Astra 🚀 por Near BPO 🟢
 
