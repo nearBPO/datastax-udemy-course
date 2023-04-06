@@ -1,3 +1,5 @@
+Versão em [Português](README_PT-BR.md) :brazil:
+
 # DataStax Astra 🚀 por Near BPO 🟢
 
 Este es el repositorio donde encontrarás la base para iniciar el curso en [Udemy](https://www.udemy.com/).
